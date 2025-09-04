@@ -17,8 +17,11 @@ Passionate about building complete **AI systems** from Computer Vision to Multin
 
 ## 🛠️ Tech Stack
 **Languages** → Python, Kotlin, JavaScript, C++, C#, C.
+
 **AI/ML** → PyTorch, TensorFlow, Hugging Face, Gemma, WhisperX, Bark, Coqui TTS, Ollama
+
 **Mobile / Systems** → Jetpack Compose, llama.cpp, CUDA, WSL2, Android NDK  
+
 **Other** → FastAPI, Docker, Conda, GitHub Actions
 
 ---
